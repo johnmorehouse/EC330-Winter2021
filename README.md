@@ -1,4 +1,3 @@
-# EC330-Winter2021
 
 
 # Econ 330: Urban Economics
