@@ -24,7 +24,7 @@ Lecture slides are posted below. I will post both a `.html` version and `.pdf` v
 
 - __Week 1:__ _Intro & Review_
 
-  - Lecture 1: [Introduction to Urban Economics](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/61e6d925bdc00177c7cc5fd23ba454953d0eabb7/slides/001-intro/lecture_one.html) 
+  - Lecture 1: [Introduction to Urban Economics](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/d8a6770e0e8095cf331740668d6f3c05822e16f3/slides/001-intro/lecture_one.html) 
   
     - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/61e6d925bdc00177c7cc5fd23ba454953d0eabb7/slides/001-intro/lecture_one.pdf)
   
