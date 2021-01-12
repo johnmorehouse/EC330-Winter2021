@@ -33,7 +33,7 @@ Lecture slides are posted below. I will post both a `.html` version and `.pdf` v
      - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/983a90a6d73d36ee10c715280345034aca670abc/slides/002-review/lecture_two.pdf)
   
   
-  - __Week 2:__ _Cities & Firm Clustering_ 
+ - __Week 2:__ _Cities & Firm Clustering_ 
   
 
   - Lecture 3: [Existence of Cities](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/64aef96f12ffd9c9bfaffa79582e30188ca57fab/slides/003-size/lecture_three.html)
