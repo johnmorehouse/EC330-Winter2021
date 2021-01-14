@@ -41,4 +41,7 @@ Lecture slides are posted below. I will post both a `.html` version and `.pdf` v
     - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/64aef96f12ffd9c9bfaffa79582e30188ca57fab/slides/003-size/lecture_three.pdf)
   
 
+  - Lecture 4: [Firm Clustering & Growth](h)
+  
+    - [.pdf version]()
   
