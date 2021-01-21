@@ -49,6 +49,6 @@ Lecture slides are posted below. I will post both a `.html` version and `.pdf` v
  
   -  Jan 18th: MLK day, no class
 
-  - Lecture 5: [Urban Rents](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/17a543673aa515d46ad9ac1206c396391b7e3a02/slides/005-rents/lecture_five.html)
+  - Lecture 5: [Urban Rents](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/b926c275cbe732453167a784e2cb247723a77a37/slides/005-rents/lecture_five.html)
   
     - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/17a543673aa515d46ad9ac1206c396391b7e3a02/slides/005-rents/lecture_five.pdf)
