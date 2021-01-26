@@ -52,3 +52,9 @@ Lecture slides are posted below. I will post both a `.html` version and `.pdf` v
   - Lecture 5: [Urban Rents](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/b926c275cbe732453167a784e2cb247723a77a37/slides/005-rents/lecture_five.html)
   
     - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/17a543673aa515d46ad9ac1206c396391b7e3a02/slides/005-rents/lecture_five.pdf)
+    
+ __Week 4__: _Neighborhood Sorting__
+ 
+  - Lecture 6: [Neighborhood sorting Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/392027f613beb3e3b284bcc90002014826f3270f/slides/006_nbhd_choiceI/lecture_6.html)
+  
+  - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/392027f613beb3e3b284bcc90002014826f3270f/slides/006_nbhd_choiceI/lecture_6.pdf)
