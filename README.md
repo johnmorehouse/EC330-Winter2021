@@ -55,6 +55,10 @@ Lecture slides are posted below. I will post both a `.html` version and `.pdf` v
     
  __Week 4__: _Neighborhood Sorting__
  
-  - Lecture 6: [Neighborhood sorting Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/392027f613beb3e3b284bcc90002014826f3270f/slides/006_nbhd_choiceI/lecture_6.html)
+  - Lecture 6: [Neighborhood Sorting Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/392027f613beb3e3b284bcc90002014826f3270f/slides/006_nbhd_choiceI/lecture_6.html)
   
   - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/392027f613beb3e3b284bcc90002014826f3270f/slides/006_nbhd_choiceI/lecture_6.pdf)
+
+- Lecture 7: [Neighborhood Sorting Part II](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3528dca6947c768cd12eed918ec343636aca4395/slides/007-nbhd_choiceII/lecture_7.html)
+
+  - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3528dca6947c768cd12eed918ec343636aca4395/slides/007-nbhd_choiceII/lecture_7.pdf)
