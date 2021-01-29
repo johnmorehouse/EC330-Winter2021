@@ -22,7 +22,7 @@ Welcome to the course GitHub page for __EC330: Urban & Regional Economic Problem
 
 Lecture slides are posted below. I will post both a `.html` version and `.pdf` version of the slides -- the `.html` requires an internet connection to use. With the `.pdf` slides, you won't be able to view embedded interactive plots, but everything else should still work.
 
-- __Week 1:__ _Intro & Review_
+__Week 1:__ _Intro & Review_
 
   - Lecture 1: [Introduction to Urban Economics](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/d8a6770e0e8095cf331740668d6f3c05822e16f3/slides/001-intro/lecture_one.html) 
   
@@ -33,7 +33,7 @@ Lecture slides are posted below. I will post both a `.html` version and `.pdf` v
      - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/983a90a6d73d36ee10c715280345034aca670abc/slides/002-review/lecture_two.pdf)
   
   
- - __Week 2:__ _Cities & Firm Clustering_ 
+ __Week 2:__ _Cities & Firm Clustering_ 
   
 
   - Lecture 3: [Existence of Cities](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/64aef96f12ffd9c9bfaffa79582e30188ca57fab/slides/003-size/lecture_three.html)
