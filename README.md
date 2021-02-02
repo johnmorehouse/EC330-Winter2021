@@ -62,3 +62,9 @@ __Week 1:__ _Intro & Review_
 - Lecture 7: [Neighborhood Sorting Part II](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3528dca6947c768cd12eed918ec343636aca4395/slides/007-nbhd_choiceII/lecture_7.html)
 
   - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3528dca6947c768cd12eed918ec343636aca4395/slides/007-nbhd_choiceII/lecture_7.pdf)
+  
+__Week 5:__ _Labor + Urban Econ
+
+  - Lecture 8: [Labor Econ Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/c32719cfc94af0ee0cbcd9c8676de67788b7beab/slides/008-labor_one/lecture_eight.html)
+  
+  - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/c32719cfc94af0ee0cbcd9c8676de67788b7beab/slides/008-labor_one/lecture_eight.pdf)
