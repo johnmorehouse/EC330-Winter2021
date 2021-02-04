@@ -68,3 +68,5 @@ __Week 5:__ _Labor + Urban Econ
   - Lecture 8: [Labor Econ Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/c32719cfc94af0ee0cbcd9c8676de67788b7beab/slides/008-labor_one/lecture_eight.html)
   
   - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/c32719cfc94af0ee0cbcd9c8676de67788b7beab/slides/008-labor_one/lecture_eight.pdf)
+  
+  - Lecture 9: Midterm Review
