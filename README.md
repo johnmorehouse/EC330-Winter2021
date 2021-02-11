@@ -63,10 +63,18 @@ __Week 1:__ _Intro & Review_
 
   - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3528dca6947c768cd12eed918ec343636aca4395/slides/007-nbhd_choiceII/lecture_7.pdf)
   
-__Week 5:__ _Labor + Urban Econ
+__Week 5:__ _Labor + Urban Econ_
 
-  - Lecture 8: [Labor Econ Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/c32719cfc94af0ee0cbcd9c8676de67788b7beab/slides/008-labor_one/lecture_eight.html)
+  - Lecture 8: [Labor+ Econ Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/c32719cfc94af0ee0cbcd9c8676de67788b7beab/slides/008-labor_one/lecture_eight.html)
   
     - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/c32719cfc94af0ee0cbcd9c8676de67788b7beab/slides/008-labor_one/lecture_eight.pdf)
   
   - Lecture 9: Midterm Review
+  
+__Week 6: Midterm week__
+
+  - Midterm exam
+  
+  - Lecture 10: [Labor+ Econ Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/4d9cd0ef4b2ad21601e25900d34616b941fff490/slides/010-labor_two/lecture_10.html)
+  
+   - [pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/4d9cd0ef4b2ad21601e25900d34616b941fff490/slides/010-labor_two/lecture_10.pdf)
