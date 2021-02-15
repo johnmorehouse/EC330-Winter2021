@@ -75,6 +75,6 @@ __Week 6: Midterm week__
 
   - Midterm exam
   
-  - Lecture 10: [Labor+ Econ Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/4d9cd0ef4b2ad21601e25900d34616b941fff490/slides/010-labor_two/lecture_10.html)
+  - Lecture 10: [Labor+ Econ Part II](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/0653a29f1c0088c530d9ddf19ea92b07a049a81c/slides/010-labor_two/lecture_10.html)
   
-   - [pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/4d9cd0ef4b2ad21601e25900d34616b941fff490/slides/010-labor_two/lecture_10.pdf)
+    - [pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/0653a29f1c0088c530d9ddf19ea92b07a049a81c/slides/010-labor_two/lecture_10.pdf)
