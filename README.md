@@ -77,4 +77,11 @@ __Week 6: Midterm week__
   
   - Lecture 10: [Labor+ Econ Part II](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/0653a29f1c0088c530d9ddf19ea92b07a049a81c/slides/010-labor_two/lecture_10.html)
   
-    - [pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/0653a29f1c0088c530d9ddf19ea92b07a049a81c/slides/010-labor_two/lecture_10.pdf)
+    - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/0653a29f1c0088c530d9ddf19ea92b07a049a81c/slides/010-labor_two/lecture_10.pdf)
+    
+    
+__Week 7: Place Based Policies___
+
+  - [Place Based Policies Part 1](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/2ce5f7669360a222c22670b7dadb9a9bfd2d21db/slides/011-place_based_policy/lecture_11.html)
+  
+    - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/2ce5f7669360a222c22670b7dadb9a9bfd2d21db/slides/011-place_based_policy/lecture_11.pdf)
