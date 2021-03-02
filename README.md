@@ -82,6 +82,28 @@ __Week 6: Midterm week__
     
 __Week 7: Place Based Policies___
 
-  - [Place Based Policies Part 1](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/2ce5f7669360a222c22670b7dadb9a9bfd2d21db/slides/011-place_based_policy/lecture_11.html)
+
+  - Lecture 11: [Place Based Policies Part 1](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/2ce5f7669360a222c22670b7dadb9a9bfd2d21db/slides/011-place_based_policy/lecture_11.html)
   
     - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/2ce5f7669360a222c22670b7dadb9a9bfd2d21db/slides/011-place_based_policy/lecture_11.pdf)
+
+- Lecture 12: [Housing](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/a22fdcdba063d5d64ad5922797e7ace0583e1b95/slides/012-rents/lecture_12.html)
+
+  - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/a22fdcdba063d5d64ad5922797e7ace0583e1b95/slides/012-rents/lecture_12.pdf)
+
+
+__Week 8: Automobiles__
+
+  - [Autos Part I](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3af3dd37316f762fb5aa5608957303b613530103/slides/013-highways/lecture_13.html)
+
+    - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3af3dd37316f762fb5aa5608957303b613530103/slides/013-highways/lecture_13.pdf)
+  
+  - [Autos Part II](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3af3dd37316f762fb5aa5608957303b613530103/slides/014-highwaysp2/lecture_14.html)
+
+    - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3af3dd37316f762fb5aa5608957303b613530103/slides/014-highwaysp2/lecture_14.pdf)
+
+__Week 9: Public Transit & The Environment__
+
+  - [Public Transportation](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3af3dd37316f762fb5aa5608957303b613530103/slides/015-transit/lecture_15.html)
+
+    - [.pdf version](https://rawcdn.githack.com/johnmorehouse/EC330-Winter2021/3af3dd37316f762fb5aa5608957303b613530103/slides/015-transit/lecture_15.pdf)
